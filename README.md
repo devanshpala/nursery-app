@@ -8,7 +8,7 @@ A Laravel‑based multi‑tenant API for managing nursery room attendance. This 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/nursery-attendance-api.git
+git clone https://github.com/devansh-pala/nursery-attendance-api.git
 cd nursery-attendance-api
 ```
 
